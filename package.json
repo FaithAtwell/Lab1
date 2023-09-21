@@ -1,0 +1,14 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "json-lab-work-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Faith Atwell",
+  "license": "ISC",
+  "dependencies": {
+    "simple-random-number-generator": "^1.3.0"
+  }
+}
